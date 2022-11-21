@@ -12,16 +12,17 @@ A MacOS menubar application to quicly access code reviews, issues and todos from
 
 # Features
 
- - created and/or review requested code requests;
- - created and/or assigned issues;
- - todo items
+ - shows created and/or review requested code requests;
+ - shows created and/or assigned issues;
+ - change status of an issue;
+ - shows todo items
  - create new, mark done or delete a todo item.
 
 # Installation
 
 Download the [latest release](https://github.com/menubar-apps/Space-HUD/releases) and install it.
 
-In the Settings view add your org name and then enerate a personal token with following permissions for projects:
+In the Settings view add your org name and then generate a personal token with following permissions for projects:
  - Read Git repositories,
  - Update issues,
  - View code reviews,
